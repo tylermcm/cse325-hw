@@ -1,0 +1,16 @@
+C:\Users\Tyler\source\repos\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\Tyler\source\repos\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\Tyler\source\repos\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\Tyler\source\repos\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyler\source\repos\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\Tyler\source\repos\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
