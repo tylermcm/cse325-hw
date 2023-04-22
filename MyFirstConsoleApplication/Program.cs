@@ -16,10 +16,10 @@ namespace MyFirstConsoleApplication
             DateTime endDate = Convert.ToDateTime("12/25/2023");
             double totalDays = (endDate - date).TotalDays;
 
-            Console.WriteLine("My name is {0}", name);
-            Console.WriteLine("I am from{0}", location);
+            Console.WriteLine("My name is {0}.", name);
+            Console.WriteLine("I am from {0}.", location);
             Console.WriteLine(date.ToString("dd/MM/yyyy"));
-            Console.WriteLine("There are {0} days until Christmas..", Math.Round(totalDays));
+            Console.WriteLine("There are {0} days until Christmas.", Math.Round(totalDays));
 
             double width, height, woodLength, glassArea;
             string widthString, heightString;
