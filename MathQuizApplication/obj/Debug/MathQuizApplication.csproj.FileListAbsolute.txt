@@ -1,0 +1,11 @@
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\bin\Debug\MathQuizApplication.exe.config
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\bin\Debug\MathQuizApplication.exe
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\bin\Debug\MathQuizApplication.pdb
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\obj\Debug\MathQuizApplication.csproj.AssemblyReference.cache
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\obj\Debug\MathQuizApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\obj\Debug\MathQuizApplication.Form1.resources
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\obj\Debug\MathQuizApplication.Properties.Resources.resources
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\obj\Debug\MathQuizApplication.csproj.GenerateResource.cache
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\obj\Debug\MathQuizApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\obj\Debug\MathQuizApplication.exe
+C:\Users\Tyler\Documents\GitHub\cse325-hw\MathQuizApplication\obj\Debug\MathQuizApplication.pdb
