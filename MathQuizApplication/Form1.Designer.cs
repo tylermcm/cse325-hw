@@ -328,6 +328,7 @@ namespace MathQuizApplication
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Tyler McMurtrey Math Quiz";
+            this.Text += " - " + DateTime.Today.ToString("MMMM d, yyyy");
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.sum)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.difference)).EndInit();
